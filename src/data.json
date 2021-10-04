@@ -1,0 +1,29 @@
+
+[
+    {
+        "id":0,
+        "prenom":"Nico",
+        "nom":"Guerrier",
+        "mail":"n.guerrier@manageo.fr" 
+  
+    },
+    {
+        "id":1,
+        "prenom":"Dylan",
+        "nom":"Berthier",
+        "mail":"d.berthier@manageo.fr" 
+    },
+    {
+        "id":2,
+        "prenom":"Lucas",
+        "nom":"Deleage",
+        "mail":"l.deleage@manageo.fr"   
+    }
+    ,
+    {
+        "id":3,
+        "prenom":"Salvatore",
+        "nom":"La Fragola",
+        "mail":"s.lafragola@manageo.fr"   
+    }
+  ]
