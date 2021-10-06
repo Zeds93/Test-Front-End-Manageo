@@ -1,3 +1,5 @@
+Test Front - App en React
+
 Pour commencer, j'ai utilisé la commande "npm create-react-app testfront" pour mettre en place la structure de mon projet.
 Ensuite, j'ai decidé de utiliser deux composants pour realiser l'appli. Un tableau que affiche le JSON et un composant
 que efface l'objet sous form de button. 
